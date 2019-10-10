@@ -1,0 +1,41 @@
+header {
+    border: 3px solid black;
+    height: 150px;
+    width: 80%;
+    font-size: 20px;
+    text-align: center;
+    margin: 0 auto;
+    background-color: darkred;
+}
+
+.underscores {
+    border: 3px solid black;
+    font-size: 100px;
+    text-align: center;
+    margin: 0 auto;
+    height: 150px;
+    width: 80%;
+    background-color: teal;
+}
+
+.rightLetters {
+    border: 3px solid black;
+    font-size: 30px;
+    text-align: center;
+    margin: 0 auto;
+    height: 150px;
+    width: 80%;
+    background-color: orangered;
+}
+
+.wrongLetters {
+    border: 3px solid black;
+    font-size: 30px;
+    text-align: center;
+    margin: 0 auto;
+    height: 150px;
+    width: 80%;
+    background-color: brown;
+}
+
+/* * {background-color: dimgray} */
